@@ -36,7 +36,7 @@ uint8_t grid[MAX_Y][MAX_X] = {
 #define WIFI_PASSWORD "YOUR_WIFI_PSK"
 
 // Token del bot Telegram (ottenuto da Botfather)
-#define BOT_API_TOKEN "YOUR_TOKEN"
+#define BOT_API_TOKEN "YOUR_BOT_TOKEN"
 
 // Pin per LED e relè
 #define LED_PIN 9
