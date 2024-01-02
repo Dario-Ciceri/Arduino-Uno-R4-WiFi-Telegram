@@ -47,9 +47,6 @@ String chat_id = "";
 int message_id = -1;
 String from_name = "Unknown";
 
-// Variabile booleana per ignorare lo stato del sensore PIR
-bool ignorePirState = false;
-
 // Costante per l'intervallo di pausa tra le ricezioni dei messaggi
 const unsigned long interval = 1000;
 
