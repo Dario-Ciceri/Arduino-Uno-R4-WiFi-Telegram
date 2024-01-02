@@ -85,7 +85,7 @@ void handleMessages(int num_new_messages) {
       updateInlineKeyboard();
 
       // Invia il messaggio di benvenuto con la tastiera inline
-      bot.sendMessageWithInlineKeyboard(chat_id, "Ciao, " + from_name + ", scegli una delle opzioni qui sotto", "Markdown", inlineKeyboardJson);
+      bot.sendMessageWithInlineKeyboard(chat_id, "Ciao, " + (from_name == "Unknown" ? "" : from_name) + ", scegli una delle opzioni qui sotto", "Markdown", inlineKeyboardJson);
     } else if (text == "/toggleLED") {
       // Funzione per invertire lo stato del LED
       toggleLED();
