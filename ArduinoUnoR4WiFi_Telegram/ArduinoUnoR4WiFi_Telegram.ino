@@ -4,6 +4,8 @@
 // Pagina GitHub: https://github.com/Dario-Ciceri
 // Canale YouTube: https://www.youtube.com/channel/UCuPuHsNjWX7huiztYu9ROQA
 
+// per provare la demo vi serve questa libreria https://github.com/adafruit/Adafruit_Si7021
+
 #include "ArduinoGraphics.h"
 #include "Arduino_LED_Matrix.h"
 #include <WiFiS3.h>
