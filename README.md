@@ -7,4 +7,4 @@ A simple code to control an Arduino Uno R4 WiFi board via Telegram
 https://github.com/adafruit/Adafruit_Si7021
 
 # Schema connessioni
-[WIP]
+![alt text](https://github.com/Dario-Ciceri/Arduino-Uno-R4-WiFi-Telegram/blob/main/Schema%20connessioni.png)
