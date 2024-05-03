@@ -2,6 +2,10 @@
 Se non viene trovata la libreria Adafruit_I2CDevice.h, scaricare la libreria https://github.com/adafruit/Adafruit_BusIO che contiene i file necessari!
 In caso di ulteriori problemi segnalateli qui su GitHub o su YouTube nella sezione commenti del video del progetto, grazie!
 
+# Librerie necessarie
+https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+https://github.com/adafruit/Adafruit_BusIO
+https://github.com/adafruit/Adafruit_Si7021/tree/master
 
 # Arduino-Uno-R4-WiFi-Telegram
 A simple code to control an Arduino Uno R4 WiFi board via Telegram
