@@ -1,5 +1,6 @@
 # In caso di errori:
-Se non viene trovata la libreria Adafruit_I2CDevice.h, scaricare la libreria https://github.com/adafruit/Adafruit_BusIO che contiene i file necessari!
+1) Se non viene trovata la libreria Adafruit_I2CDevice.h, scaricare la libreria https://github.com/adafruit/Adafruit_BusIO che contiene i file necessari!
+2) Se avete problemi con le versioni recenti di TelegramUniversalBot, utilizzate la versione presente in questa repository
 In caso di ulteriori problemi segnalateli qui su GitHub o su YouTube nella sezione commenti del video del progetto, grazie!
 
 # Librerie necessarie
